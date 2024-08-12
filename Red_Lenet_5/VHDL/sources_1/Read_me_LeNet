@@ -1,0 +1,2 @@
+"Sistema_Completo" engloba a la red LeNet y la UART, es el archivo global de todo el proyecto en Vivado, las entradas y salidas corresponden a las del constraint
+"LENET_5_CNN_MNSIT" archivo global de la red LeNet5 que agrupa las capas convolucionales y fully-connected
