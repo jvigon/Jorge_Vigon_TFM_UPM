@@ -1,0 +1,3 @@
+Imágenes probadas para obtener la precisón de la arquitectura.
+Las imágenes corresponden al dataset MNSIT, se han probado 100 imágenes de cada dígito (del 0 al 9) obteniendo así un total de 1000 imágenes.
+La precisión conseguida es del 92.6% (926 aciertos y 74 errores).
